@@ -11,7 +11,6 @@
 
 
 6. **[OPTIONAL] Images/Additional material link**:
-   http://............
 
 ```
 Upload any optional material and share with us a public link.
